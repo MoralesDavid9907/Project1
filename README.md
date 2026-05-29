@@ -1,7 +1,7 @@
 # Project1
-# Hi, I'm [Your Name]!
+# Hi, I'm [David]!
 ## About Me
-- I'm in [grade] at [school name]
+- I'm in [Ninth grade] at [Energy Tech Highschool]
 - I enjoy: [list 2-3 interests]
 ## Why I'm Taking This Course
 [Write 1-2 sentences about your goal]
